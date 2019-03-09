@@ -1,0 +1,93 @@
+
+@import url('https://fonts.googleapis.com/css?family=Charmonman');
+
+
+
+body {
+	background-color:#ffb61c;
+}
+
+.navbar {
+	background-color:#ffb61c;
+	font-family: 'Charmonman', cursive;
+	font-weight:bold;
+	font-size:x-large;
+	letter-spacing:1.5px;
+
+
+}
+
+.navbar a{
+	color:black!important;
+
+}
+
+.nav-item {
+	background-color:#ffb61c;
+}
+
+.navbar-toggler-icon {
+	color:black!important;
+}
+
+.dropdown-item {
+	font-weight:bold!important;
+}
+
+/*---Carousel ---*/
+
+.carousel-control-prev-icon {
+	filter:invert(100%)!important;
+}
+
+.carousel-control-next-icon {
+	filter:invert(100%)!important;
+}
+
+
+
+.jumbotron {
+	background-color:#ffb61c;
+}
+
+.jumbotron img {
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	height:275px;
+}
+
+
+
+/*---Google Map Edit ---*/
+.text-black {
+	padding-top:50px;
+	font-weight:bold;
+}
+
+.bake {
+	text-align:left!important;
+}
+
+/*---Contact Us Section ---*/
+
+.list-group-item {
+	background-color:#ffb61c;
+
+
+}
+
+.contact {
+	padding-top:200px;
+	text-align:center;
+}
+
+.mb-4 {
+	text-align:center;
+}
+
+/* ---Hours of Operation*/
+
+.list-group {
+text-align:center;
+}
